@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since 2022<br>
+✨ Creating bugs since 2023<br>
 📚 I'm currently learning AI/ML, advanced web & mobile development, and emerging technologies<br>
 🎯 Goals: Build scalable, impactful solutions in UI/UX, ERP, and AI-driven systems<br>
 🎲 Fun fact: I debug my code by explaining it to my rubber duck 🦆
