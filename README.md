@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey What's up?</h1>
 
 <p align="left">My name is Yeabtsega Mekonnen and I'm an Information Systems student & aspiring software engineer.</p>
 
